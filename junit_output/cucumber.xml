@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="9.887129">
+    <testcase classname="NOC Login feature" name="NOC Login Test Scenario" time="9.887129">
+        <system-out>
+            <![CDATA[Given User is already on login page.........................................passed
+When title of login page is ASPCL NOC Portal................................passed
+Then user enters username and password......................................passed
+Then user clicks on login...................................................passed
+Then user is on home page...................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

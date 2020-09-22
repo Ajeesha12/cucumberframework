@@ -1,0 +1,75 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "NOC Login Test Scenario",
+        "description": "",
+        "id": "noc-login-feature;noc-login-test-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User is already on login page",
+            "match": {
+              "location": "loginstepdefinition.user_already_onlogin()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "title of login page is ASPCL NOC Portal",
+            "match": {
+              "location": "loginstepdefinition.login_page_title()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user enters username and password",
+            "match": {
+              "location": "loginstepdefinition.user_enters_usernameand_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user clicks on login",
+            "match": {
+              "location": "loginstepdefinition.user_clicks_on_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "user is on home page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "NOC Login feature",
+    "description": "",
+    "id": "noc-login-feature",
+    "keyword": "Feature",
+    "uri": "C:/Users/Admin/eclipse-workspace/NOC_BDDFrameork/src/main/java/Features/login.feature"
+  }
+]
