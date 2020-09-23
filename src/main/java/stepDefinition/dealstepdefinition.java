@@ -20,7 +20,7 @@ import cucumber.api.java.en.When;
 		WebDriver driver;
 		WebDriverWait wait;
 		@Given("^User is already in login page$")
-		//public void user_is_already_in_login_page() { 
+		public void user_is_already_in_login_page() { 
 			System.setProperty("webdriver.chrome.driver", "E:\\Chrome\\chromedriver_win32\\chromedriver.exe");
 			driver= new ChromeDriver();
 	        driver.get("https://ui.freecrm.com/");
