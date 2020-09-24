@@ -10,7 +10,7 @@
 #Then user navigate to new deals page
 #Then enter "<firstname>" and "<lastname>"
 #Then select save button
-#Then close the browser
+Then close the browser
 #
 #Examples:
 #
