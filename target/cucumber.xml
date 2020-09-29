@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="81.794589">
-    <testcase classname="Deals data management" name="Deals data creation" time="81.794589">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="24.723056">
+    <testcase classname="Deals data management" name="Deals data creation" time="24.723056">
         <system-out>
             <![CDATA[Given User is already in login page.........................................passed
 When Title of login page is freeCRM.........................................passed

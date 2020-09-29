@@ -90,70 +90,70 @@ formatter.match({
   "location": "dealstepdefinition.user_is_already_in_login_page()"
 });
 formatter.result({
-  "duration": 60119155775,
+  "duration": 15556964581,
   "status": "passed"
 });
 formatter.match({
   "location": "dealstepdefinition.title_of_login_page_is_freeCRM()"
 });
 formatter.result({
-  "duration": 26885381,
+  "duration": 34485162,
   "status": "passed"
 });
 formatter.match({
   "location": "dealstepdefinition.enter_username_and_password(DataTable)"
 });
 formatter.result({
-  "duration": 505753669,
+  "duration": 425684215,
   "status": "passed"
 });
 formatter.match({
   "location": "dealstepdefinition.user_clicks_on_login_page()"
 });
 formatter.result({
-  "duration": 124796543,
+  "duration": 109163385,
   "status": "passed"
 });
 formatter.match({
   "location": "dealstepdefinition.verify_the_title_of_home_page()"
 });
 formatter.result({
-  "duration": 6026513,
+  "duration": 6429350,
   "status": "passed"
 });
 formatter.match({
   "location": "dealstepdefinition.user_moves_to_deals_page()"
 });
 formatter.result({
-  "duration": 18627751211,
+  "duration": 6267579680,
   "status": "passed"
 });
 formatter.match({
   "location": "dealstepdefinition.user_navigate_to_new_deals_page()"
 });
 formatter.result({
-  "duration": 255012329,
+  "duration": 204255671,
   "status": "passed"
 });
 formatter.match({
   "location": "dealstepdefinition.enter_and(DataTable)"
 });
 formatter.result({
-  "duration": 1200077491,
+  "duration": 1262903283,
   "status": "passed"
 });
 formatter.match({
   "location": "dealstepdefinition.select_save_button()"
 });
 formatter.result({
-  "duration": 148864106,
+  "duration": 131823915,
   "status": "passed"
 });
 formatter.match({
   "location": "dealstepdefinition.close_the_browser()"
 });
 formatter.result({
-  "duration": 780266207,
+  "duration": 723766742,
   "status": "passed"
 });
 });
